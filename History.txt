@@ -1,0 +1,36 @@
+City: Bishkek
+Country: KG
+Description: overcast clouds
+Temperature: 6
+                Time: 2019-12-28 00:29:37.743483
+
+City: Naryn
+Country: KG
+Description: scattered clouds
+Temperature: -13.3
+                Time: 2019-12-28 00:29:37.743483
+
+City: Kanada
+Country: PL
+Description: scattered clouds
+Temperature: 2.43
+                Time: 2019-12-28 00:29:37.743483
+
+City: Жийде
+Country: KG
+Description: smoke
+Temperature: -1
+                Time: 2019-12-28 00:29:37.743483
+
+City: Kuba
+Country: NG
+Description: clear sky
+Temperature: 24.35
+                Time: 2019-12-28 00:29:37.743483
+
+City: Oslo
+Country: NO
+Description: overcast clouds
+Temperature: -5.6
+                Time: 2019-12-28 00:29:37.743483
+
